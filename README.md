@@ -4,8 +4,6 @@ k-meansdescript
 Descriptive Modeling using k-means and spherical k-means methods on yelp.com data
 -------------------
 Instructions for cluster_nbc.py:
-- Code pokes around yelp.com data examining relationships between variables. 
-(Includes pre-processing)
 
 - Expected Input:
 	- trainingDataFilename = sys.argv[1]
